@@ -1,4 +1,4 @@
-- 👋 I’m Isaac Oluwafemi Ogunniyi, a Machine Learning Engineer currently occupied as a zindi data science competitor
+- 👋 I’m Isaac Oluwafemi Ogunniyi, a Machine Learning Engineer currently occupied as a competitor in Machine Learning Challenges/ Hackathons
 - 👀 I am proficient in the use Python (Pandas, Numpy, Scikit-learn), SQL, JavaScript, and Spreadsheet applications.
 - 🌱 I also hold a bachelor of Science degree in Aerospace Engineering from the Kwame Nkrumah University of Science and Technology.
 - :+1: Let's connect on [LinkedIn](https://linkedin.com/in/isaac-oluwafemi-ogunniyi)
